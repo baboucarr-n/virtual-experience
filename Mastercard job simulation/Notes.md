@@ -32,7 +32,7 @@ Mastercard IT
 
 ### Question 1: What is the first issue you spot in this phishing email?
 
-![Question 1 - Suspicious source email](screenshots/phishing-email.png)
+![Question 1 - Suspicious source email](task-1/screenshots/phishing-email.png)
 
 Answer: Suspicious looking source email address
 
@@ -42,7 +42,7 @@ Why:
 
 ### Question 2: How could you improve the body of the phishing email to make it more believable?
 
-![Question 2 - Improve spelling grammar layout](screenshots/phishing-email2.png)
+![Question 2 - Improve spelling grammar layout](task-1/screenshots/phishing-email2.png)
 
 Answer: Improve the spelling, grammar and sloppy layout
 
@@ -52,7 +52,7 @@ Why:
 
 ### The Improved Example
 
-![Improved phishing email example - Black Friday reward card](screenshots/example-of-phising-email.png)
+![Improved phishing email example - Black Friday reward card](task-1/screenshots/example-of-phising-email.png)
 
 **From:** Mastercard Staff Rewards
 **To:** employee@email.com
@@ -89,7 +89,7 @@ Lesson: A good phishing email does not look like a scam. It looks normal, helpfu
 
 ### The Results Table
 
-![Interpreting phishing simulation results table](screenshots/interpreting-results.png)
+![Interpreting phishing simulation results table](task-2/screenshots/interpreting-results.png)
 
 | Team | Email open rate | Email click-through rate | Phishing success rate |
 | :--- | :--- | :--- | :--- |
